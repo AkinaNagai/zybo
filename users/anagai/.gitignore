@@ -1,0 +1,17 @@
+#vivado cashe and generated files
+*.cashe/
+*.hw/
+*.runs/
+*.sim/
+*tmp/
+vivado_pid*.str
+
+#Temporary or log files
+*.log
+*.jou
+*.str
+
+#Build artifacts
+*.bit
+*.bin
+*.elf
